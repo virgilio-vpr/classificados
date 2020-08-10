@@ -1,12 +1,12 @@
 README - **Projeto Classificados**
 # Desenvolvido em PHP - Framework CodeIgniter 4 
 **Outras linguagens e bibliotecas utilizadas:**
-MySQLi, HTML-5, CSS, Bootstrap - 4, font-awsome link CDN e link.**
-PlaceHolder.com para simulação de imagens.**
+MySQLi, HTML-5, CSS, Bootstrap - 4, font-awsome link CDN e link.
+PlaceHolder.com para simulação de imagens.
 
 Este projeto tem caráter didático, ele é livre para uso e edição.
-Para quem está aprendendo a utilizar o CodeIginiter 4, saiba que eu utilizo as
-principais ferramentas, funções, session, renderSection e classes, entre outras,
+Para quem está aprendendo a utilizar o CodeIginiter 4, saiba que faço uso das
+principais ferramentas, funções, session, renderSection e classes, entre outras.
 Nos CRUDs utilizo querys de consulta do CI4, mas também outras do padrão SQL.
 
 **Arquivo .env**
