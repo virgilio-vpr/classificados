@@ -1,10 +1,8 @@
 README - **Projeto Classificados**
-
 # Desenvolvido em PHP - Framework CodeIgniter 4 
-
-# Outras linguagens e bibliotecas:
-# MySQLi, HTML-5, CSS, Bootstrap - 4, font-awsome link CDN e link.
-# PlaceHolder.com para simulação de imagens.
+**Outras linguagens e bibliotecas utilizadas:**
+MySQLi, HTML-5, CSS, Bootstrap - 4, font-awsome link CDN e link.**
+PlaceHolder.com para simulação de imagens.**
 
 Este projeto tem caráter didático, ele é livre para uso e edição.
 Para quem está aprendendo a utilizar o CodeIginiter 4, saiba que eu utilizo as
@@ -21,7 +19,7 @@ database.default.username = root
 database.default.password = ""
 database.default.DBDriver = MySQLi
 
-*obs* Observe acima que não há senha no banco de dados, sendo assim seu banco não poderá
+*obs:* Observe acima que não há senha no banco de dados, sendo assim seu banco não poderá
 possuir senha, ou se possuir, o arquivo .env deverá corresponder a senha do seu banco.
 Est
 
