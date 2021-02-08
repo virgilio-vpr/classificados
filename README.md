@@ -28,7 +28,7 @@ Est
 Segue também o arquivo com da Base de Dados contendo todas as  tabelas utilizadas:
 (classificados.sql);
 
-As imagens estão na pasta anunios Path - public/assets/images/anuncios;
+As imagens estão na pasta anuncios Path - public/assets/images/anuncios;
 
 OS demais aquivos encontra-se dentro da pasta assest e suas subpastas correspondentes;
 
